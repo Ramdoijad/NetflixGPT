@@ -1,11 +1,9 @@
 
-
+import Body from './components/Body.js'
 
 function App() {
   return (
-    <div className="text-green-800 text-3xl text-center">
-      Namaste Everyone
-    </div>
+   <Body/>
   );
 }
 

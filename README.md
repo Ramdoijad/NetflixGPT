@@ -6,6 +6,7 @@
 -Login Sign/SignUp 
        -Sign in /sign up page
        -Redirect To Browser Page
+       
 -Browse (After Authontication)
    -Header
    -Main Movie
